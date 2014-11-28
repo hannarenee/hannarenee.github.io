@@ -7,9 +7,9 @@ email: hallo@youmewemedIa.nl
 description: "Youmewe Media, website diensten voor onderneemsters. Website maken. Website onderhouden. Wordpress hulp. Hoger in Google komen."
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 008400
-  secondary: 008444
-  secondary-dark: 004284
+  primary: fed136
+  secondary: fec503
+  secondary-dark: 008400
 
 # Team names, titles and social links
 people:
