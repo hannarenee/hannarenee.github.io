@@ -1,17 +1,17 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Cyrille Montulet
+subtitle: Creatie
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2012-09-24
+img: cyrille.png
+thumbnail: cyrille-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-service: Web Development
-client-url: "http://www.youmewemedia.nl"
+project-date: September 2012
+client: Cyrille Montilet
+service: Creatie
+client-url: "http://www.cyrillemontulet.com"
 categories: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Website voor filmmaakster Cyrille Montulet. Cyrille heeft de website zelf ontworpen met een aantal aanbevelingen van mij op het gebied van UX. Ik heb de website daarna gebouwd.
 
 ---
