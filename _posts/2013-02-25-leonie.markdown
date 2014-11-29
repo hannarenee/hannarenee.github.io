@@ -1,17 +1,17 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Leonie Hosselet
+subtitle: Creatie
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2013-02-25
+img: leonie.png
+thumbnail: leonie-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-service: Web Development
-client-url: "http://www.youmewemedia.nl"
+project-date: Februari 2013
+client: Leonie Hosselet
+service: Creatie
+client-url: "http://leoniehosselet.com"
 categories: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Ik heb deze website samen met Leonie Hosselet ontworpen. Ik heb de website gebouwd in WordPress. De website is geheel responsive. Het doel was een frisse, rustige portfoliowebsite maken voor het journalistieke werk van Leonie. De website heeft een plugin om te wisselen tussen verschillende talen.
 
 ---
