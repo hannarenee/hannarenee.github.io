@@ -18,15 +18,15 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong>{{ post.client }}
+                                    <strong><a href="{{ post.client-url }}">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong>{{ post.project-date }}
+                                    <strong><a href="{{ post.client-url }}">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong>{{ post.service }}
+                                    <strong><a href="{{ post.client-url }}">{{ post.service }}</a>
                                     </strong>
                                 </li>
                             </ul>
