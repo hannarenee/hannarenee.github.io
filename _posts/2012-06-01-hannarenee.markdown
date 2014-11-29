@@ -1,5 +1,5 @@
 ---
-title: Hanna Renee Training & Coaching
+title: Hanna Renee
 subtitle: Creatie
 layout: default
 modal-id: 6
