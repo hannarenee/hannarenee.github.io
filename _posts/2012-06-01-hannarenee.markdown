@@ -1,16 +1,16 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Hanna Renee Training & Coaching
+subtitle: Creatie
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2012-06-01
+img: hannarenee.png
+thumbnail: hannarenee-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-service: Web Development
-client-url: "http://www.youmewemedia.nl"
+project-date: Juni 2012
+client: Persoonlijk project
+service: Creatie
+client-url: "http://youmewemedia.nl"
 categories: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Dit is een template voor een coachings- en trainingsbedrijf met een intercultureel karakter.
 ---
