@@ -13,9 +13,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Cyrille Montulet
   pic: 1
-  position: Lead Designer
+  position: freelance filmmaakster
   social:
     - title: twitter
       url: #
@@ -24,9 +24,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Leonie Hosselet
   pic: 2
-  position: Lead Marketer
+  position: freelance journaliste
   social:
     - title: twitter
       url: #
@@ -35,9 +35,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Zobaida El Khanchouf
   pic: 3
-  position: Lead Developer
+  position: eigenaresse Al Haya'shop
   social:
     - title: twitter
       url: #
