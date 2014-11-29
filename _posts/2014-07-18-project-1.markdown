@@ -1,17 +1,17 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Artstikke
+subtitle: Onderhoud en hulp
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2013-06-18
+img: artstikke.png
+thumbnail: artstikke-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-service: Web Development
-client-url: "http://www.youmewemedia.nl"
+project-date: Juni 2013
+client: Artstikke
+service: Onderhoud en hulp
+client-url: "http://artstikke.nl"
 categories: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: De dames van Artstikke hadden zelf al een website in WordPress gemaakt. Ze wisten alleen niet hoe zo hem online moesten zetten en wilden nog een aantal ontwerpelementen aanpassen. Ik heb de website online gezet, het ontwerp aangepast en de website tweetalig gemaakt.
 
 ---
