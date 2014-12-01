@@ -1,5 +1,5 @@
 ---
-title: Moslimacoach
+title: Moslima coach
 subtitle: Creatie
 layout: default
 modal-id: 5
