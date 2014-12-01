@@ -1,5 +1,5 @@
 ---
-title: Bazaar plein
+title: Bazaarplein
 subtitle: Creatie
 layout: default
 modal-id: 2
