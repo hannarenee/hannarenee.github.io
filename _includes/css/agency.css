@@ -266,7 +266,6 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url({{ site.baseurl }}/{{ page.header-img }});
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
