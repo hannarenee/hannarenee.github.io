@@ -10,14 +10,14 @@
             <div class="row">
             {% for post in site.posts %}
 				{% if post.categories contains 'featured' %}
-                <div class="col-md-4 post-preview">
+                <div class="col-md-4 post-preview text-center">
 					<a href="{{ post.url | prepend: site.baseurl }}">
 						<h2>
 						{{ post.title }}
 						</h2>
-							<p class="large text-muted">
+							<h3 class="large text-muted">
 							{{ post.subtitle }}
-							</p>
+							</h3>
 					</a>
 					<p>{{ post.date | date: "%-d %B %Y" }}</p>
 				</div>
