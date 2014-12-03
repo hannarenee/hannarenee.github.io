@@ -12,14 +12,14 @@
 				{% if post.categories contains 'featured' %}
                 <div class="col-md-4 post-preview">
 					<a href="{{ post.url | prepend: site.baseurl }}">
-						<h2>
+						<h2 class="post-title">
 						{{ post.title }}
 						</h2>
-							<h3 class="large text-muted">
+							<h3 class="large text-muted post-subtitle">
 							{{ post.subtitle }}
 							</h3>
 					</a>
-					<h3 class="section-subheading text-muted">{{ post.date | date: "%-d %B %Y" }}</h3>
+					<h3 class="section-subheading text-muted post-meta">{{ post.date | date: "%-d %B %Y" }}</h3>
 				</div>
 				{% endif %}
 			{% endfor %}      
