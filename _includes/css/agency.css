@@ -869,11 +869,11 @@ body {
 }
 
 .post-preview > a > .post-title {
-  margin-bottom: 1px;
+  margin-bottom:5px;
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
-  margin-bottom: 1px;
+  margin-bottom: 5px;
 }
 .post-preview > .post-meta {
   margin-top: 0;
