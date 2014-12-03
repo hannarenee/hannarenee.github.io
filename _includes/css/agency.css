@@ -867,13 +867,3 @@ body {
   text-decoration: none;
   color: #{{ site.color.secondary }};
 }
-
-.post-preview > a > .post-title {
-  margin-bottom: 10px;
-}
-.post-preview > a > .post-subtitle {
-  margin: 0;
-  margin-bottom: 10px;
-}
-.post-preview > .post-meta {
-  margin-top: 0;
