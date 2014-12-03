@@ -2,7 +2,7 @@
 title: Een frisse start
 subtitle: Ik heb een nieuwe site, maar ook achter de schermen is er dit jaar veel gebeurd bij Youmewe Media.
 layout: post
-header-img: "https://farm8.staticflickr.com/7486/15752095207_ffafd03670_s.jpg"
+header-img: "https://farm8.staticflickr.com/7486/15752095207_4147b2acf6_k.jpg"
 categories: featured
 ---
 
