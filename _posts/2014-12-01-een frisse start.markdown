@@ -1,8 +1,8 @@
 ---
-title: Een blog post
-subtitle: Hier komt ook nog een blog post die ik wil laten zien
+title: Een frisse start
+subtitle: Ik heb een nieuwe site, maar ook achter de schermen is er dit jaar veel gebeurd bij Youmewe Media.
 layout: post
-header-img: "https://farm8.staticflickr.com/7486/15752095207_ffafd03670_s.jpg"
+header-img: "https://farm8.staticflickr.com/7570/15753349548_07422f3a78_o.jpg"
 categories: featured
 ---
 
