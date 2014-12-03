@@ -654,7 +654,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url(../img/home-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -865,5 +865,5 @@ body {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #{{ site.color.primary }};
+  color: #{{ site.color.secondary }};
 }
