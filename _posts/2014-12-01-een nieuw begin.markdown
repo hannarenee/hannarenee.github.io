@@ -1,7 +1,7 @@
 ---
 title: Een frisse start
 subtitle: Ik heb een nieuwe site, maar ook achter de schermen is er dit jaar veel gebeurd bij Youmewe Media.
-layout: default
+layout: post
 date: 01-12-2014
 header-img: "img/portfolio/artstikke.png"
 categories: featured
