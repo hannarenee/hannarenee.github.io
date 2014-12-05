@@ -3,7 +3,7 @@ title: Een frisse start
 subtitle: Ik heb een nieuwe site, maar ook achter de schermen is er dit jaar veel gebeurd bij Youmewe Media.
 layout: post
 header-img: "https://farm8.staticflickr.com/7570/15753349548_07422f3a78_o.jpg"
-categories: featured, podcast
+categories: [featured, podcast]
 ---
 
 Ik heb dit jaar veel beleefd. Zowel op persoonlijk gebied als professioneel gebied.

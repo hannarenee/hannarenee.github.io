@@ -1,3 +1,7 @@
+<div class="home">
+
+  <h1>Podcasts</h1>
+
   <ul class="posts">
     {% for post in site.posts %}
       <li>
@@ -8,3 +12,5 @@
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
