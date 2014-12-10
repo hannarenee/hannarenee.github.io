@@ -1,5 +1,6 @@
-url: http://hannarenee.github.io
-baseurl:
+url: http://localhost
+baseurl: youmewe
+destination: /opt/lampp/htdocs/youmewe
 
 # Site settings
 title: Youmewe Media
