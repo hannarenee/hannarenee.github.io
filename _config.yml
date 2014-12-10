@@ -1,5 +1,5 @@
-url: http://localhost
-baseurl: youmewe
+url: http://localhost/youmewe
+baseurl: http://localhost/youmewe
 destination: /opt/lampp/htdocs/youmewe
 
 # Site settings

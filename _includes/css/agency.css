@@ -654,13 +654,18 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/contact.jpg);
+    background-image: url(img/contact.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
     color: #fff;
+}
+
+section#contact .section-subheading {
+    color: #fed136;
+    line-height: 20px;
 }
 
 section#contact .form-group {
